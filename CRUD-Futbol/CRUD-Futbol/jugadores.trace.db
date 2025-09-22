@@ -1,0 +1,172 @@
+2025-09-22 12:21:12.198422+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:21:12.312807+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:21:12.358309+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:21:12.414310+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:21:12.458430+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:23:12.058402+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:23:12.171720+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:23:12.284230+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:23:12.364468+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:23:12.409755+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:24:08.431398+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores WHERE id = ?"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores WHERE id = ?"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores WHERE id = ? [42001-224]
+2025-09-22 12:24:08.459392+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:24:08.595708+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:24:08.708046+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:24:08.779874+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:24:08.829023+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:26:50.390118+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores WHERE id = ?"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores WHERE id = ?"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores WHERE id = ? [42001-224]
+2025-09-22 12:26:50.408251+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:27:38.547255+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:27:38.658829+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:27:38.770767+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:27:38.839701+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:27:38.883691+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:35:23.969641+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:35:24.082121+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:35:24.197938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:35:24.269039+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:35:24.316032+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:47:53.955302+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:47:54.068402+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:47:54.177621+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:47:54.247119+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:47:54.292669+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:28.104480+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:28.214222+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:28.322394+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:28.394607+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:28.440104+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:56.964927+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:57.080245+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:57.193560+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:57.265224+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
+2025-09-22 12:52:57.311146+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM jugadores"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM jugadores"; expected "identifier"; SQL statement:
+DELETE * FROM jugadores [42001-224]
